@@ -1,0 +1,5 @@
+Untuk tahun 2022:
+1. Game industry
+2. AR, VR, Unity & Unreal Engine
+3. C#
+4. C++
