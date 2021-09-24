@@ -1,1 +1,2 @@
 Just like the other, I want to use version control management to track my documents / source code. 
+sedangkan enambahan baris ini adalah yg posisi di Main so... beeeek
