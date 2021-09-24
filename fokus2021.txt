@@ -1,6 +1,7 @@
 Fokus kita di thn 2021 adalah:
 1. Python mastery
 2. Numpy stack -- (Numpy, matplotlib, seaborn etc)
-3. Deep Learning
-4. Django
+3. Deep Learning -- ANN, CNN, RNN
+4. Django -- Design Pattern, Async
 5. Labview design pattern
+6. Labview mastery
